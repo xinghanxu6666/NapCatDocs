@@ -50,21 +50,7 @@ NapCatWinBootMain.exe 10001
 
 <details>
   <summary>软件截图</summary>
-  
-  ![ncd_01.png](/assets/boot/ncd/ncd_01.png)
-
-
-  ![ncd_03.png](/assets/boot/ncd/ncd_03.png)
-
-  ![ncd_04.jpg](/assets/boot/ncd/ncd_04.jpg)
-
-  ![ncd_05.jpg](/assets/boot/ncd/ncd_05.jpg)
-
-  ![ncd_06.png](/assets/boot/ncd/ncd_06.png)
-
-  ![ncd_07.png](/assets/boot/ncd/ncd_07.png)
-
-  ![ncd_08.png](/assets/boot/ncd/ncd_08.png)
+  1
 
 </details>
 
