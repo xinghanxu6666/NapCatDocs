@@ -53,7 +53,6 @@ NapCatWinBootMain.exe 10001
   
   ![ncd_01.png](/assets/boot/ncd/ncd_01.png)
 
-  ![ncd_02.png](/assets/boot/ncd/ncd_02.png)
 
   ![ncd_03.png](/assets/boot/ncd/ncd_03.png)
 
