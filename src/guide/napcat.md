@@ -1,7 +1,5 @@
 # NapCat
-<div style="display: flex; justify-content: center;">
-  <img src="/assets/logos/napcat_8.png" alt="description" width="300" height="300"/>
-</div>
+
 
 ## 欢迎回家!
 NapCatQQ V4 已启用全新风格标识和文档，欢迎回家！<mark>这里是 NapCatQQ (aka 猫猫框架) 的使用文档！</mark>
