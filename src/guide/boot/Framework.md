@@ -23,7 +23,7 @@ Win 一键启动（内置 LiteLoader）
 
 1. 按照 [LiteLoaderQQNT 官网](https://liteloaderqqnt.github.io/) 的指导安装 LiteLoaderQQNT 框架。
 2. 在 LiteLoaderQQNT 的设置页面（如下图）将 `NapCat.Framework.zip` 导入即可。
-![ll01.png](/assets/boot/BootWay01/ll01.png)
+
 
 <mark>
 强烈不推荐 LL 官方的修补方案，其方案将导致 NapCat 扩展 API 失效的。
